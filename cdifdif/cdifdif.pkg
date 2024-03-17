@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'cdifdif': Routine to estimate difference-in-differences models in the presence of treatment spillovers Use cdifdif With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cdifdif.ado
+f cdifdif.sthlp
